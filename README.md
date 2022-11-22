@@ -1,2 +1,2 @@
-# Challeng-3
+# Challenge-3
 A password generator from JavaScript.
