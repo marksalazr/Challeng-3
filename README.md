@@ -1,4 +1,4 @@
-# Challenge-3
+# password generator!
 A password generator from JavaScript.
 
 Its the first time ive been working with javaScript i really had to tinker with it a lot and go through a lot of trial and error.
